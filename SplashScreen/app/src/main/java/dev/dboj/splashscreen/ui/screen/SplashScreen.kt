@@ -62,7 +62,7 @@ private fun Splash() {
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
             Image(
-                painter = painterResource(id = R.mipmap.ic_logo_round), contentDescription = "Developer Logo",
+                painter = painterResource(id = R.drawable.ic_logo), contentDescription = "Developer Logo",
                 modifier = Modifier
                     .size(200.dp)
                     .padding(20.dp)
