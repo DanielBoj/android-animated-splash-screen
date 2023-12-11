@@ -56,7 +56,7 @@ private fun Splash() {
                 modifier = Modifier
                     .size(200.dp)
                     .padding(20.dp)
-										.scale(scale.value)
+		    .scale(scale.value)
             )
             Text(
                 "Bienevenid@s a la App de Android",
